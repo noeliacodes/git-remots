@@ -1,3 +1,7 @@
+pelis terror:
+1.- scream
+2.- laberinto del fauno
+
 pelis indie:
 1.- sangre en los labios
 2.- backrooms
