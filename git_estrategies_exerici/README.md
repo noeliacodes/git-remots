@@ -1,0 +1,1 @@
+Fent la prova de l'exercici destrategies
